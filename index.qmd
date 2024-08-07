@@ -19,5 +19,5 @@ You can find my CV [here](https://drive.google.com/file/d/1-LXthUf7_Fjfl-FMZc8bt
 
 You can contact me: [georgios.manalis\@ed.ac.uk](georgios.manalis@ed.ac.uk)
 
-```{}
+```         
 ```
