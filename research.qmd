@@ -13,11 +13,15 @@ format:
 
 ## Working papers
 
-### Mutual insurance and land security in rural Ghana
+### The Mystery of Land Rights: Explorations on Informal Institutions in Ghana
 
-(with [K. Mazur](https://sites.google.com/site/mazurecon/home)) - (revised draft coming soon)
+(with [K. Mazur](https://sites.google.com/site/mazurecon/home)) 
 
-We study the impact of land rights' formalization on the functioning of informal insurance and land re-allocations in Ghana's rural communities. First, we provide empirical evidence suggesting that communities holding more formal land titles enjoy higher land security, as measured by number of disputes due to multiple claims over land. Second, we find that land re-allocations are more intense in those places, leading to increases in agricultural productivity and level of average consumption. Third, we show that communities with higher formality of land rights enjoy improved risk-sharing against idiosyncratic shocks. Motivated by this evidence, we develop a dynamic model of land and risk sharing subject to limited commitment constraints, where the equilibrium degree of co-operation is determined by the degree of formal land rights chosen. We show that the model can rationalize our empirical findings and can serve as a useful quantitative laboratory. Most interestingly, we find that although positive in the data, the effects of increasing land rights may be highly non-linear as at some point they may lead to a complete unraveling of informal co-operation in rural economies.
+([Link](https://drive.google.com/file/d/1AKQbuWAvM1hBsS6STqLIpKXYt7fiKtA-/view?usp=sharing) - in preparation for the Carnegie-Rochester-NYU Conference Series on Public Policy - preliminary, comments welcome)
+
+(previously circulated as 'Mutual insurance and land security in rural Ghana')
+
+We investigate why informal institutions persist despite policy efforts to introduce formal alternatives. Using Ghana's nationwide rollout of land registration offices, we show that increased access to formal land institutions does not significantly raise land rights adoption. Instead, we show that local traditional authorities—village chiefs—actively constrain the formalization of agricultural land markets. We develop a structural model of endogenous take-up of land rights, integrating their effects on land markets and informal risk-sharing. While the estimated welfare cost of chiefs' power inhibiting the take-up of land rights is large, the model also reveals a critical trade-off: although enhanced formal land rights typically improve insurance and reduce misallocation, excessive formalization risks collapsing informal insurance networks. Thus, rural communities may rationally retain informal institutions to preserve their immediate benefits.
 
 **Presented**: Departmental seminar - University of Cyprus (2020); STEG - CEPR annual conference (2021); Departmental seminar - University of Macedonia (2021); Asian Meeting of the Econometric Society in China (2022); SIOE - Toronto (2022); EEA - ESEM, Milan (2022); RES - SES, Glasgow (2023); AFES, Nairobi (2023); SED, Cartagena (2023); AFES, Abidjan (2024).
 
