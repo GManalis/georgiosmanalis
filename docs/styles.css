@@ -1,6 +1,11 @@
 /* css styles */
 
-/* Optional: headings can also be the same color */
-h1, h2, h3, h4, h5, h6 {
+/* H1 and H2 in black */
+h1, h2 {
+    color: #000000; /* black */
+}
+
+/* H3 and H4 in darker Raw Sienna */
+h3, h4 {
     color: #A0522D;
 }
