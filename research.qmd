@@ -6,7 +6,7 @@ format:
         text: |
           <style>
           h3 {
-          color: CornflowerBlue;
+          color: #A0522D;
           }
           </style>
 ---
@@ -17,7 +17,7 @@ format:
 
 (with [K. Mazur](https://sites.google.com/site/mazurecon/home)) 
 
-([Link](https://drive.google.com/file/d/1AKQbuWAvM1hBsS6STqLIpKXYt7fiKtA-/view?usp=sharing) - in preparation for the Carnegie-Rochester-NYU Conference Series on Public Policy - preliminary, comments welcome)
+[[Link to working paper](https://drive.google.com/file/d/1AKQbuWAvM1hBsS6STqLIpKXYt7fiKtA-/view?usp=sharing)] - in preparation for the Carnegie-Rochester-NYU Conference Series on Public Policy - preliminary, comments welcome)
 
 (previously circulated as 'Mutual insurance and land security in rural Ghana')
 
@@ -34,12 +34,6 @@ Despite arduous efforts of advancing land rights in Africa, most of the continen
 **Presented**: Giorgio Rota Conference 2019 (University of Turin); Belgrade Young Economists Conference (BYEC 2019); Warsaw International Economic Meeting (WIEM 2019); ASSET 2019 Conference; IEWG (EUI); EERN 2020 Conference (University of Orléans); GLAD 2020 Conference (University of Göttingen); Conference on Research on Economic Theory and Econometrics - CRETE 2021.
 
 **Awarded**: 7th Giorgio Rota Best Paper Award; Best paper at Warsaw International Economic Meeting 2019; Shortlisted for LAGV Prize (ASSET 2019).
-
-### Trust dynamics in electoral competition
-
-(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - (submitted)
-
-We study the dynamics of trust in an electoral competition model without commitment à la Banks (1990). Each politician can deliver a certain type of policies and may engage in costly deception of the voters in order to enjoy electoral gains. When the voters' trust in politicians is higher than a given threshold, then dynamics lead to a steady state in which politicians lie to a moderate extent and voters' partially and accurately discount electoral promises. However, when a shock drives voters' trust in politicians below the threshold, then the steady-state level of intermediate confidence cannot be restored: politicians always lie more than expected and, gradually, trust in politicians collapses completely. The analysis highlights that while stable levels of trust are feasible, they should not be taken for granted, and provides a rationale for the recent crises in several European political systems.
 
 ### Contagion as a dealmaker? The effect of financial spillovers on regional lending programs
 
@@ -59,11 +53,19 @@ Opening to trade may pose challenges for small, open economies with weak risk-in
 
 ## Publications
 
+### Trust dynamics in electoral competition
+
+(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - forthcoming in European Economic Review
+
+[[Link to journal article](https://www.sciencedirect.com/science/article/pii/S0014292125001758?dgcid=author)], [[Working paper version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4794513)], [[Replication code](https://github.com/GManalis/Trust_Dynamics_in_Electoral_Competition.git)]
+
+We study the fragility of trust between voters and politicians, exploring the likelihood of trust recovery following disruptions. We identify a critical trust threshold: above it, the trust dynamics converge to a stable steady state marked by politicians’ moderate deception and voters’ tempered expectations; below it, trust gradually declines, giving way to deepening scepticism. These insights highlight that while stable levels of trust are feasible, they should not be taken for granted, contributing to the discussion on the underpinnings of recent trust crises across European democracies.
+
 ### Bandwagons in costly elections: the role of loss aversion
 
 (with [A. Leontiou](https://sites.google.com/view/anastasialeontiou) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - 2023 in Journal of Economic Behavior & Organization
 
-[Link to journal article](https://www.sciencedirect.com/science/article/pii/S016726812300077X?via%3Dihub), [Replication code](https://github.com/GManalis/Bandwagons_in_Costly_Elections.git)
+[[Link to journal article](https://www.sciencedirect.com/science/article/pii/S016726812300077X?via%3Dihub)], [[Replication code](https://github.com/GManalis/Bandwagons_in_Costly_Elections.git)]
 
 The formal study of voluntary elections with costly participation predicts that the supporters of the underdog - i.e., of the candidate that is expected to lose - are less likely to abstain than the supporters of the expected winner (Palfrey and Rosenthal, 1985; Herrera et al., 2014). While some empirical/experimental studies identify this underdog effect (Levine and Palfrey, 2007), in others bandwagons emerge: the supporters of the expected winner are found to abstain less often than the supporters of the underdog (Agranov et al., 2018). We focus on large elections and follow Köszegi and Rabin (2006) by considering that voters experience gains and losses with respect to their expected equilibrium payoffs. When the election is sufficiently close (i.e., when the shares of the supporters of the two alternatives are not too asymmetric), we find that bandwagons emerge in every equilibrium. To our knowledge, this is the first formal study that explains bandwagons in large elections, by incorporating a commonly accepted behavioural model in an otherwise standard context of costly voting.
 
