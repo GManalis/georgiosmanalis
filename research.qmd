@@ -55,7 +55,7 @@ Opening to trade may pose challenges for small, open economies with weak risk-in
 
 ### Trust dynamics in electoral competition
 
-(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - forthcoming in European Economic Review
+(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - 2025 in European Economic Review
 
 [[Link to journal article](https://www.sciencedirect.com/science/article/pii/S0014292125001758?dgcid=author)], [[Working paper version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4794513)], [[Replication code](https://github.com/GManalis/Trust_Dynamics_in_Electoral_Competition.git)]
 
