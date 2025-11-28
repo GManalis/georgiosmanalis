@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "International Economics\n\n2022/23, 2023/24, 2024/25\nSchool of Economics - University of Edinburgh\nHonours course for 3rd and 4th year undergraduate students\nCourse organizer and instructor\n\nInternational Trade\n\n2022/23, 2023/24, 2024/25\nScottish Graduate Programme in Economics - School of Economics - University of Edinburgh\nCourse for MSc and PhD students\nCourse organizer and instructor\n\nAdvanced Topics in Macroeconomics\n\n2024/25\nScottish Graduate Programme in Economics - School of Economics - University of Edinburgh\nCourse for MSc and PhD students\nCourse organizer and instructor\n\nTopics in Microeconomics\n\n2022/23, 2023/24\nSchool of Economics - University of Edinburgh\nHonours course for 3rd and 4th year undergraduate students\nTutor"
-  },
-  {
     "objectID": "policywork.html",
     "href": "policywork.html",
     "title": "Policy work",
@@ -26,13 +19,6 @@
     "title": "Policy work",
     "section": "Policy papers",
     "text": "Policy papers\n\nUsing RRF resources to kick-start a job-rich recovery in Greece\nPolicy paper #111/2022 (with M. Matsaganis) ELIAMEP’s working paper series (link).\n\n\nPromoting a just digital transition for workers\nPolicy study (with M. Matsaganis and A. Zavarella) (link).\nPart of the Recovery Watch series of publications led by FEPS, Friedrich-Ebert-Stiftung (FES) and the Institut Emile Vandervelde (IEV), in collaboration with several first-rate research organisations.\n\n\nNational Recovery and Resilience Plan: Greece\n(with M. Matsaganis) Italian Labour Law e-Journal Vol. 15, no. 1S (2022) (link)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Georgios Manalis",
-    "section": "",
-    "text": "Welcome to my website!\nI am a research economist with interests in macroeconomics and development.\nI received my PhD from the European University Institute in Florence.\nYou can find my CV here\nYou can contact me: g.n.manalis [at] gmail [dot] com"
   },
   {
     "objectID": "research.html",
@@ -60,6 +46,20 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\nTrust dynamics in electoral competition\n(with N. Glynia and D. Xefteris) - forthcoming in European Economic Review\n[Link to journal article], [Working paper version], [Replication code]\nWe study the fragility of trust between voters and politicians, exploring the likelihood of trust recovery following disruptions. We identify a critical trust threshold: above it, the trust dynamics converge to a stable steady state marked by politicians’ moderate deception and voters’ tempered expectations; below it, trust gradually declines, giving way to deepening scepticism. These insights highlight that while stable levels of trust are feasible, they should not be taken for granted, contributing to the discussion on the underpinnings of recent trust crises across European democracies.\n\n\nBandwagons in costly elections: the role of loss aversion\n(with A. Leontiou and D. Xefteris) - 2023 in Journal of Economic Behavior & Organization\n[Link to journal article], [Replication code]\nThe formal study of voluntary elections with costly participation predicts that the supporters of the underdog - i.e., of the candidate that is expected to lose - are less likely to abstain than the supporters of the expected winner (Palfrey and Rosenthal, 1985; Herrera et al., 2014). While some empirical/experimental studies identify this underdog effect (Levine and Palfrey, 2007), in others bandwagons emerge: the supporters of the expected winner are found to abstain less often than the supporters of the underdog (Agranov et al., 2018). We focus on large elections and follow Köszegi and Rabin (2006) by considering that voters experience gains and losses with respect to their expected equilibrium payoffs. When the election is sufficiently close (i.e., when the shares of the supporters of the two alternatives are not too asymmetric), we find that bandwagons emerge in every equilibrium. To our knowledge, this is the first formal study that explains bandwagons in large elections, by incorporating a commonly accepted behavioural model in an otherwise standard context of costly voting."
+    "text": "Publications\n\nTrust dynamics in electoral competition\n(with N. Glynia and D. Xefteris) - 2025 in European Economic Review\n[Link to journal article], [Working paper version], [Replication code]\nWe study the fragility of trust between voters and politicians, exploring the likelihood of trust recovery following disruptions. We identify a critical trust threshold: above it, the trust dynamics converge to a stable steady state marked by politicians’ moderate deception and voters’ tempered expectations; below it, trust gradually declines, giving way to deepening scepticism. These insights highlight that while stable levels of trust are feasible, they should not be taken for granted, contributing to the discussion on the underpinnings of recent trust crises across European democracies.\n\n\nBandwagons in costly elections: the role of loss aversion\n(with A. Leontiou and D. Xefteris) - 2023 in Journal of Economic Behavior & Organization\n[Link to journal article], [Replication code]\nThe formal study of voluntary elections with costly participation predicts that the supporters of the underdog - i.e., of the candidate that is expected to lose - are less likely to abstain than the supporters of the expected winner (Palfrey and Rosenthal, 1985; Herrera et al., 2014). While some empirical/experimental studies identify this underdog effect (Levine and Palfrey, 2007), in others bandwagons emerge: the supporters of the expected winner are found to abstain less often than the supporters of the underdog (Agranov et al., 2018). We focus on large elections and follow Köszegi and Rabin (2006) by considering that voters experience gains and losses with respect to their expected equilibrium payoffs. When the election is sufficiently close (i.e., when the shares of the supporters of the two alternatives are not too asymmetric), we find that bandwagons emerge in every equilibrium. To our knowledge, this is the first formal study that explains bandwagons in large elections, by incorporating a commonly accepted behavioural model in an otherwise standard context of costly voting."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "International Economics\n\n2022/23, 2023/24, 2024/25\nSchool of Economics - University of Edinburgh\nHonours course for 3rd and 4th year undergraduate students\nCourse organizer and instructor\n\nInternational Trade\n\n2022/23, 2023/24, 2024/25\nScottish Graduate Programme in Economics - School of Economics - University of Edinburgh\nCourse for MSc and PhD students\nCourse organizer and instructor\n\nAdvanced Topics in Macroeconomics\n\n2024/25\nScottish Graduate Programme in Economics - School of Economics - University of Edinburgh\nCourse for MSc and PhD students\nCourse organizer and instructor\n\nTopics in Microeconomics\n\n2022/23, 2023/24\nSchool of Economics - University of Edinburgh\nHonours course for 3rd and 4th year undergraduate students\nTutor"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Georgios Manalis",
+    "section": "",
+    "text": "Welcome to my website!\nI am a research economist with interests in macroeconomics and development.\nI received my PhD from the European University Institute in Florence.\nYou can find my CV here\nYou can contact me: gmanalis@aueb.gr"
   }
 ]
