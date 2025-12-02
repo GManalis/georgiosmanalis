@@ -55,7 +55,7 @@ Opening to trade may pose challenges for small, open economies with weak risk-in
 
 ### Trust dynamics in electoral competition
 
-(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - October 2025 in European Economic Review
+(with [N. Glynia](https://sites.google.com/view/nektaria-glynia/home) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - Vol 179, October 2025, European Economic Review
 
 \[[Link to journal article](https://www.sciencedirect.com/science/article/pii/S0014292125001758?dgcid=author)\], \[[Working paper version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4794513)\], \[[Replication code](https://github.com/GManalis/Trust_Dynamics_in_Electoral_Competition.git)\]
 
@@ -63,7 +63,7 @@ We study the fragility of trust between voters and politicians, exploring the li
 
 ### Bandwagons in costly elections: the role of loss aversion
 
-(with [A. Leontiou](https://sites.google.com/view/anastasialeontiou) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - May 2023 in Journal of Economic Behavior & Organization
+(with [A. Leontiou](https://sites.google.com/view/anastasialeontiou) and [D. Xefteris](https://sites.google.com/site/dxefteris/)) - Vol 209, May 2023, Journal of Economic Behavior & Organization
 
 \[[Link to journal article](https://www.sciencedirect.com/science/article/pii/S016726812300077X?via%3Dihub)\], \[[Replication code](https://github.com/GManalis/Bandwagons_in_Costly_Elections.git)\]
 
